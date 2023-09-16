@@ -1,0 +1,10 @@
+tabWidth: 4
+semi: false
+tabs: false
+trailingComma: none
+bracketSpacing: true
+arrowParens: always
+proseWrap: never
+endOfLine: crlf
+embeddedLanguageFormatting: off
+printWidth: 80
